@@ -1,8 +1,17 @@
 {
-  "name": "report",
-  "version": "1.0.0",
-  "description": "Report Maker",
+  "name": "node-report-maker",
+  "version": "0.0.1",
+  "description": "Node Report Maker",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmanhm/node-report-maker.git"
+  },
+  "keywords": [
+    "report",
+    "maker",
+    "node"
+  ],
   "author": "M Habib Rohman <mhrohman@live.com>",
   "license": "MIT",
   "dependencies": {
