@@ -1,0 +1,15 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "Report Maker",
+  "main": "index.js",
+  "author": "M Habib Rohman <mhrohman@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.11",
+    "rmdir": "^1.2.0",
+    "yargs": "^6.6.0"
+  }
+}
