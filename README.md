@@ -1,5 +1,7 @@
 # Node Report Maker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/node-report-maker.svg)](https://greenkeeper.io/)
+
 Before you make a report for **today**, you need to init the report via.
 
 ```
